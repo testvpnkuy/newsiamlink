@@ -1,7 +1,7 @@
 {
   
-    "version": 36,
-    "message": "09:00น. \n 15-02-25 \nเวอร์ชันไฟล์: 36 \n แก้ไข \nport ssh \nรองรับการใช้งาน \n \n🔴 TRUE \n🔵 DTAC \n🟡 SIMMY  \n🟢 AIS PLAY \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
+    "version": 37,
+    "message": "08:00น. \n 25-02-25 \nเวอร์ชันไฟล์: 37 \n แก้ไข \nserver \nรองรับการใช้งาน \n \n🔴 TRUE \n🔵 DTAC \n🟡 SIMMY  \n🟢 AIS PLAY \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
     "fileUrl": "https://github.com/testvpnkuy/newsiamlink/raw/refs/heads/main/siamlink.json",
     
     "RewardAmount": 24,
@@ -18,7 +18,7 @@
     
              "name": "🇹🇭เซิร์ฟเวอร์-1️⃣",
     
-             "url": "http://ub161.siam-link.com:82/server/online_app.json"
+             "url": "http://ssh.server1.siam-link.com:82/server/online_app.json"
     
           },
     
@@ -26,17 +26,10 @@
     
              "name": "🇹🇭เซิร์ฟเวอร์-2️⃣",
     
-             "url": "http://ub121.siam-link.com:82/server/online_app.json"
-    
-          },
-    
-      {
-    
-             "name": "🇹🇭เซิร์ฟเวอร์-3️⃣",
-    
              "url": "http://116.204.180.87:82/th/online_server_1.json"
     
           }
+    
       
       
     
